@@ -26,6 +26,6 @@ Join us on this captivating journey into the heart of sorting algorithms. Explor
 
 ### Watch the Sorting Visualizer in Action
 
-[![Watch the demo video](https://img.youtube.com/vi/G7Wc-KULJpI/0.jpg)](https://www.youtube.com/watch?v=G7Wc-KULJpI)
+[Watch the demo video](https://www.youtube.com/watch?v=G7Wc-KULJpI)
 
-Click the image above to watch the full demo video on YouTube.
+Click the link above to watch the full demo video on YouTube.
