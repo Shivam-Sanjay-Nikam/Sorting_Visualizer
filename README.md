@@ -1,50 +1,24 @@
-<!-- Add CSS styling -->
-<style>
-  /* Header Styling */
-  h1 {
-    color: #2f80ed; /* Blue color */
-    font-size: 36px;
-    font-weight: bold;
-  }
-
-  h2 {
-    color: #333; /* Dark gray color */
-    font-size: 24px;
-  }
-
-  /* Link Styling */
-  a {
-    color: #2f80ed; /* Blue color */
-  }
-
-  /* Text Styling */
-  p {
-    color: #555; /* Gray color */
-    font-size: 16px;
-  }
-</style>
-
 # Sorting Visualizer
 
-Welcome to the Sorting Visualizer, a web application that offers a captivating visual representation of various sorting algorithms, such as Heap Sort, Bubble Sort, Merge Sort, and Quick Sort. Our mission is to provide you with an aesthetically pleasing and educational experience, allowing you to delve into the fascinating world of sorting algorithms.
+Welcome to the Sorting Visualizer, an enchanting web application that unveils the mesmerizing world of sorting algorithms. Immerse yourself in the art of sorting with captivating visual representations of algorithms such as Heap Sort, Bubble Sort, Merge Sort, and Quick Sort.
 
 ## Who Benefits from the Sorting Visualizer?
 
-1. **Students and Educators:** Are you a student immersed in the study of computer science or an educator looking for engaging teaching aids? The Sorting Visualizer is your go-to resource. It offers an immersive way to grasp the intricate inner workings of sorting algorithms in real-time, enhancing your understanding of their efficiency and performance.
+1. **Students and Educators:** Whether you're a student diving deep into computer science or an educator in search of engaging teaching aids, the Sorting Visualizer is your ultimate resource. It provides an immersive journey into the inner workings of sorting algorithms, enhancing your grasp of efficiency and performance.
 
-2. **Developers and Programmers:** In the realm of software development, making informed decisions is paramount. Our visualizer serves as a valuable reference, enabling developers and programmers to compare sorting algorithms seamlessly. It aids in selecting the most suitable algorithm for specific project scenarios.
+2. **Developers and Programmers:** In the realm of software development, informed decisions are paramount. Our visualizer serves as your compass, allowing you to seamlessly compare sorting algorithms and select the ideal one for your specific project needs.
 
-3. **Curiosity-Driven Explorers:** Algorithms may seem daunting to those without a coding background, but our visualizer makes them accessible and captivating. For those curious about how data can be sorted in ascending or descending order, the Sorting Visualizer offers an enthralling journey into the world of algorithms.
+3. **Curiosity-Driven Explorers:** Algorithms can be intimidating, even without a coding background. However, our visualizer demystifies them, making the world of sorting accessible and captivating. Explore the magic of arranging data in ascending and descending order with the Sorting Visualizer.
 
 ## Why Choose the Sorting Visualizer?
 
-Our Sorting Visualizer stands out as a valuable tool for anyone eager to learn or explore sorting algorithms and their visual representations. Here's why you should dive in:
+Our Sorting Visualizer is a valuable companion for anyone eager to unravel sorting algorithms and their visual enchantment. Here's why your journey should begin with us:
 
-- **Interactive Experience:** We've designed the Sorting Visualizer to be interactive and engaging. Experience the magic of sorting algorithms firsthand.
+- **Interactive Experience:** Step into a world of interactivity and engagement. The Sorting Visualizer allows you to witness sorting algorithms in action.
 
-- **User-Friendly:** Don't worry if you're new to sorting algorithms. Our user-friendly interface makes it easy to grasp the fundamental concepts.
+- **User-Friendly:** No need to fret if you're new to sorting algorithms. Our user-friendly interface simplifies the fundamental concepts for all learners.
 
-- **Aesthetic Appeal:** We believe that learning can be beautiful. Our design emphasizes aesthetics, ensuring that your experience is not only educational but also visually pleasing.
+- **Aesthetic Appeal:** We believe that learning should be beautiful. Our design emphasizes aesthetics, ensuring that your experience is both educational and visually pleasing.
 
 Join us on this captivating journey into the heart of sorting algorithms. Explore, learn, and discover the art of arranging data with elegance and efficiency.
 
@@ -52,6 +26,6 @@ Join us on this captivating journey into the heart of sorting algorithms. Explor
 
 ### Watch the Sorting Visualizer in Action
 
-[Watch the demo video](https://github.com/Shivam-Sanjay-Nikam/Sorting_Visualizer/blob/main/Screen%20Recording%202023-09-08%20at%206.12.31%20PM.mov)
+[![Watch the demo video](https://img.youtube.com/vi/G7Wc-KULJpI/0.jpg)](https://www.youtube.com/watch?v=G7Wc-KULJpI)
 
-Click the link above to watch the full demo video.
+Click the image above to watch the full demo video on YouTube.
